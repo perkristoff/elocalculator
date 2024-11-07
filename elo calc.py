@@ -23,7 +23,7 @@ Ra = 1200
 Rb = 1000
 
 # constant
-K = 50
+K = 100
 
 # Outcome: 1 for Player A win, 0 for Player B win, 0.5 for draw
 outcome = 1
